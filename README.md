@@ -1,16 +1,27 @@
-## Hi there 👋
+## 📫 Contact
+- LinkedIn : [www.linkedin.com/in/zoubeir-ba-40295130a)
+- Email : zubwd1@gmail.com
 
-<!--
-**Zoubeir7/Zoubeir7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonjour ! 👋
 
-Here are some ideas to get you started:
+## 🌟 À propos de moi
+Bonjour 👋
+Je suis un développeur junior full-stack-js passionné avec une expérience dans la conception d'applications web.
+Mon objectif est de créer des applications professionnelles, sécurisées et hautes performances, offrant une excellente expérience utilisateur, tout en garantissant l'efficacité des fonctionnalités sous-jacentes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## languages des Programmation
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript  
+![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML  
+![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS  
+![SQL](https://img.icons8.com/color/48/000000/mysql-logo.png) SQL  
+## 💼 Projets récents
+- [Nom du projet 3](lien_du_projet_3) : Description brève du projet.
+
+
+## 📫 Contact
+- LinkedIn : [www.linkedin.com/in/zoubeir-ba-40295130a)
+- Email : zubwd1@gmail.com
+
+Merci de visiter mon profil ! 😊
+
