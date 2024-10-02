@@ -24,18 +24,7 @@ My goal is to create professional, secure, and high-performance applications tha
     <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   </div>
 
-  <br>
 
-  <!-- Section des statistiques GitHub -->
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=BaBaMsd&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
-  <br>
-
-  <!-- Section du compteur de vues -->
-  <a href="https://komarev.com/ghpvc/?username=BaBaMsd&style=for-the-badge">
-      <img src="https://komarev.com/ghpvc/?username=BaBaMsd&style=for-the-badge">
-  </a>
-
-</div>
 
 
 
