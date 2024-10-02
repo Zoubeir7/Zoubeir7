@@ -4,11 +4,7 @@ I am a passionate junior full-stack JavaScript developer with experience in desi
 My goal is to create professional, secure, and high-performance applications that provide an excellent user experience while ensuring the efficiency of the underlying features.
 
 ## Programming Languages
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="24" />
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="24" />
-<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="24" />
-<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="24" />
-<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="24" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="24" /><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="24" /><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="24" /><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="24" /><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="24" />
 
 
 ## Framework and tools
