@@ -8,6 +8,8 @@ My goal is to create professional, secure, and high-performance applications tha
 
 
 ## Framework and tools
+<div style="background-color: #000; padding: 10px; display: inline-block;">
+
 <img align="left" src="https://img.shields.io/badge/Git-333333?&style=for-the-badge&logo=git&logoColor=red" alt="Git" />
 <img align="left" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />
 <img align="left" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" />
@@ -18,5 +20,9 @@ My goal is to create professional, secure, and high-performance applications tha
 <img align="left" src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 <img align="left" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 <img align="left" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+
 <br clear="left" />
+
+</div>
+
 
