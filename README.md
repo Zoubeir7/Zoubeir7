@@ -11,18 +11,39 @@ My goal is to create professional, secure, and high-performance applications tha
 <div style="background-color: #000; padding: 20px; display: inline-block; text-align: left;">
 
   <!-- Section des badges -->
-<div style="display: flex; flex-wrap: wrap;">
-  <img src="https://img.shields.io/badge/Git-333333?&style=for-the-badge&logo=git&logoColor=red" alt="Git" style="height: 24px;" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" style="height: 24px;" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" style="height: 24px;" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" style="height: 24px;" />
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" style="height: 24px;" />
-  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="height: 24px;" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height: 24px;" />
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="height: 24px;" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="height: 24px;" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="height: 24px;" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <div style="background-color: black; padding: 5px;">
+    <img src="https://img.shields.io/badge/Git-333333?&style=for-the-badge&logo=git&logoColor=red" alt="Git" style="height: 24px;" />
+  </div>
+  <div style="background-color: black; padding: 5px;">
+    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" style="height: 24px;" />
+  </div>
+  <div style="background-color: black; padding: 5px;">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" style="height: 24px;" />
+  </div>
+  <div style="background-color: black; padding: 5px;">
+    <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" style="height: 24px;" />
+  </div>
+  <div style="background-color: black; padding: 5px;">
+    <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue.js" style="height: 24px;" />
+  </div>
+  <div style="background-color: black; padding: 5px;">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" style="height: 24px;" />
+  </div>
+  <div style="background-color: black; padding: 5px;">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height: 24px;" />
+  </div>
+  <div style="background-color: black; padding: 5px;">
+    <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="height: 24px;" />
+  </div>
+  <div style="background-color: black; padding: 5px;">
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="height: 24px;" />
+  </div>
+  <div style="background-color: black; padding: 5px;">
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="height: 24px;" />
+  </div>
 </div>
+
 
 
 
