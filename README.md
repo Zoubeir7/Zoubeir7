@@ -4,7 +4,13 @@ I am a passionate junior full-stack JavaScript developer with experience in desi
 My goal is to create professional, secure, and high-performance applications that provide an excellent user experience while ensuring the efficiency of the underlying features.
 
 ## Programming Languages
-<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="24" /><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="24" /><img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="24" /><img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="24" /><img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="24" />
+<img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="24" />
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="24" />
+<img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="24" />
+<img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="24" />
+<img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="24" />
+<img src="https://img.icons8.com/offices/40/000000/php-logo.png" alt="PHP" height="24" />
+
 
 
 ## Framework and tools
@@ -22,7 +28,10 @@ My goal is to create professional, secure, and high-performance applications tha
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="height: 24px; background-color: black;" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" style="height: 24px; background-color: black;" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" style="height: 24px; background-color: black;" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" style="height: 24px; background-color: black;" />
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery" style="height: 24px; background-color: black;" />
 </div>
+
 
 
 
