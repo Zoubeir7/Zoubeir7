@@ -12,7 +12,6 @@ My goal is to create professional, secure, and high-performance applications tha
   <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="24" />
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="24" />
 </div>
-## Framework and tools
 <div style="background-color: #000; padding: 20px; display: inline-block; text-align: left;">
 
   <!-- Frameworks & Libraries -->
