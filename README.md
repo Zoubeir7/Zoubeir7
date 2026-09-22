@@ -13,15 +13,7 @@ My goal is to create professional, secure, and high-performance applications tha
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="24" />
 </div>
 <div style="background-color: #000; padding: 20px; display: inline-block; text-align: left;">
-  
-<div style="display: flex; align-items: center; gap: 10px; font-family: 'IBM Plex Sans', sans-serif;">
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" height="24" />
-  <img src="https://img.icons8.com/offices/40/000000/php-logo.png" alt="PHP" height="24" />
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="Java" height="24" />
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML" height="24" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS" height="24" />
-  <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="24" />
-</div>
+
 <div style="background-color: #000; padding: 20px; display: inline-block; text-align: left; font-family: 'IBM Plex Sans', sans-serif;">
     <!-- Frameworks & Libraries -->
   <h3 style="color: white; margin: 0 0 10px 0; font-weight: normal; font-family: 'IBM Plex Sans', sans-serif;">𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 & 𝖫𝗂𝖻𝗋𝖺𝗋𝗂𝖾𝗌</h3>
