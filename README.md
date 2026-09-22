@@ -13,8 +13,8 @@ My goal is to create professional, secure, and high-performance applications tha
   <img src="https://img.icons8.com/color/48/000000/sql.png" alt="SQL" height="24" />
 </div>
 <div style="background-color: #000; padding: 20px; display: inline-block; text-align: left;">
-  <!-- Frameworks & Libraries -->
-  <h3 style="color: white; margin: 0 0 10px 0;">𝗙𝗿𝗮𝗺𝗲𝘄𝗼𝗿𝗸𝘀 & 𝗟𝗶𝗯𝗿𝗮𝗿𝗶𝗲𝘀</h3>
+    <!-- Frameworks & Libraries -->
+  <h3 style="color: white; margin: 0 0 10px 0; font-weight: normal;">𝖥𝗋𝖺𝗆𝖾𝗐𝗈𝗋𝗄𝗌 & 𝖫𝗂𝖻𝗋𝖺𝗋𝗂𝖾𝗌</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: black; padding: 10px;">
     <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="Express.js" style="height: 24px; background-color: black;" />
     <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" style="height: 24px; background-color: black;" />
@@ -28,7 +28,7 @@ My goal is to create professional, secure, and high-performance applications tha
   </div>
 
   <!-- Databases -->
-  <h3 style="color: white; margin: 24px 0 10px 0;">𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲𝘀</h3>
+  <h3 style="color: white; margin: 24px 0 10px 0; font-weight: normal;">𝖣𝖺𝗍𝖺𝖻𝖺𝗌𝖾𝗌</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: black; padding: 10px;">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" style="height: 24px; background-color: black;" />
     <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" style="height: 24px; background-color: black;" />
@@ -36,7 +36,7 @@ My goal is to create professional, secure, and high-performance applications tha
   </div>
 
   <!-- Tools -->
-  <h3 style="color: white; margin: 24px 0 10px 0;">𝗧𝗼𝗼𝗹𝘀</h3>
+  <h3 style="color: white; margin: 24px 0 10px 0; font-weight: normal;">𝖳𝗈𝗈𝗅𝗌</h3>
   <div style="display: flex; flex-wrap: wrap; gap: 10px; background-color: black; padding: 10px;">
     <img src="https://img.shields.io/badge/Git-333333?&style=for-the-badge&logo=git&logoColor=red" alt="Git" style="height: 24px; background-color: black;" />
     <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" style="height: 24px; background-color: black;" />
